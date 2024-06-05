@@ -1,0 +1,9 @@
+<html>
+<body>
+<head>
+<title>GAME VERSE</title>
+</head>
+<h1><center><font color="darkorchid">GAME VERSE:L'UNIVERSO DEI2 VIDEOGIOCHI</h1></center></font>
+<body background="retro.webp">
+<br><br><br>
+<center><h1><font color="orangered">COSA È IL GAMING</center></h1></font>
